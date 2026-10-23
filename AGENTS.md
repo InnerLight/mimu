@@ -1,4 +1,4 @@
-# Working on Dot Along
+# Working on Mimu
 
 ## Context and scope
 

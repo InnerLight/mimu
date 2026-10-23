@@ -1,12 +1,14 @@
-# Dot Along
+# Mimu
 
 ## Product direction
 
-Dot Along is the working name for a small, local-only routine app with playful retro pixel creatures. Its core principle is **hands-free by default; controls are optional**.
+Mimu is the working app name for a small, local-only routine app with playful retro pixel creatures. Store availability and Siri recognition of the name have not been confirmed. Its core principle is **hands-free by default; controls are optional**.
 
 Users run a sequence of timed tasks that advances automatically, without checking off each task or dismissing transitions. Brief cues announce the next task. Independent scheduled reminders provide a brief alert without requiring completion.
 
 Each task automatically receives an animal or creature and a color, with customization available. Creatures show timer progress by moving along and consuming time dots, with small goofy animations. They are part of the interface, not pets to care for.
+
+Mimu is the main chicken character, automatically assigned to the first event by default.
 
 Optional controls include pause/resume, extend time, finish early and advance, skip, and remind later where applicable. Their exact behavior and scheduling consequences remain undefined.
 
